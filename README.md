@@ -1,0 +1,2 @@
+# whitepaper
+taiji-chain whitepaper
